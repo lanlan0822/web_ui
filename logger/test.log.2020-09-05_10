@@ -1,0 +1,687 @@
+2020-09-05 08:53:27,513 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 08:53:35,356 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 08:53:59,179 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 08:54:00,689 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 08:54:00,690 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 08:54:00,977 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 08:54:01,025 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 08:54:01,118 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 08:54:01,377 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 08:54:01,409 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 08:54:01,468 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 08:54:01,602 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 08:54:01,602 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 08:54:05,722 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 08:54:05,723 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 08:59:36,500 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 08:59:41,503 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:00:05,413 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:00:07,658 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:00:07,662 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:00:08,298 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:00:08,985 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:00:09,257 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:00:09,569 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:00:09,639 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:00:09,822 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:00:10,378 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:00:10,379 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:00:14,596 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:00:14,597 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:00:44,123 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:00:44,124 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:00:51,653 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:00:51,654 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:00:57,960 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:00:57,961 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:01:01,486 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:01:01,487 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:01:04,996 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:01:08,077 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:01:08,251 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:01:08,252 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:02:23,937 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:02:30,112 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:02:53,913 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:02:55,299 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:02:55,300 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:02:55,762 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:02:55,849 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:02:56,039 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:02:56,335 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:02:56,392 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:02:56,532 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:02:56,817 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:02:56,818 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:03:01,017 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:03:01,018 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:03:30,389 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:03:30,389 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:03:35,933 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:03:35,935 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:03:40,794 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:03:40,795 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:03:44,429 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:03:44,430 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:04:21,023 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:04:27,126 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:04:52,634 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:04:54,338 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:04:54,339 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:04:54,680 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:04:54,833 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:04:55,007 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:04:55,372 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:04:55,412 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:04:55,519 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:04:55,711 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:04:55,712 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:04:59,910 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:04:59,912 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:05:27,487 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:05:27,487 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:05:33,080 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:05:33,081 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:05:38,813 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:05:38,814 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:05:42,406 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:05:42,407 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:05:46,092 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:05:49,149 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:05:49,372 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:05:49,373 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:09:27,479 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:09:33,281 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:09:57,787 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:09:59,343 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:09:59,353 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:09:59,907 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:10:00,080 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:10:00,405 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:10:00,766 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:10:00,814 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:10:00,967 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:10:01,299 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:10:01,299 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:10:05,540 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:10:05,541 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:10:32,882 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:10:32,883 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:10:37,751 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:10:37,752 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:10:41,783 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:10:41,784 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:10:45,521 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:10:45,522 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:10:49,154 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:10:52,231 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:10:52,341 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:10:52,419 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:10:52,420 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:12:46,415 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:12:55,072 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:13:19,904 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:13:21,776 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:13:21,777 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:13:22,338 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:13:22,484 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:13:22,832 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:13:23,204 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:13:23,271 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:13:23,436 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:13:23,947 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:13:23,948 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:13:28,359 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:13:28,361 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:13:57,404 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:13:57,405 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:14:02,693 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:14:02,694 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:14:08,260 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:14:08,261 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:14:13,125 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:14:13,126 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:14:16,642 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:14:19,978 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:14:20,360 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:14:20,651 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:14:20,652 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:16:08,324 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:16:16,310 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:16:41,133 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:16:43,125 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:16:43,126 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:16:43,871 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:16:44,004 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:16:44,388 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:16:45,270 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:16:45,348 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:16:45,511 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:16:45,908 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:16:45,908 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:16:50,175 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:16:50,176 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:17:18,633 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:17:18,634 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:17:25,429 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:17:25,430 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:17:30,676 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:17:30,677 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:17:34,800 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:17:34,801 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:17:38,381 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:17:41,506 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:17:41,883 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:17:42,177 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:17:42,178 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:32:48,001 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 09:32:48,003 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:32:53,054 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:33:16,595 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:33:18,152 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:33:18,153 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:34:06,224 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 09:34:06,225 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:34:11,836 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:34:37,662 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:34:39,368 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:34:39,369 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:34:40,017 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:34:40,188 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:34:40,572 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:34:41,045 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:34:41,149 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:34:41,446 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:34:42,188 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:34:42,189 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:34:44,563 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:34:44,564 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:35:28,797 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:35:28,798 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:35:31,577 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:35:31,577 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:35:36,017 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:35:36,018 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:35:39,394 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:35:41,531 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:35:41,532 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:35:42,100 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:35:42,101 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:35:45,531 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:35:45,531 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:35:48,893 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:35:50,934 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:35:50,935 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:35:54,827 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 09:37:10,982 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 09:37:10,983 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:37:17,590 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:37:45,350 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:37:47,458 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:37:47,459 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:37:47,930 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:37:48,151 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:37:48,400 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:37:48,838 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:37:48,896 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:37:49,046 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:37:49,328 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:37:49,328 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:37:51,576 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:37:51,577 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:38:25,987 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:38:25,988 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:38:28,089 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:38:28,089 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:38:32,191 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:38:32,192 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:38:35,637 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:38:37,752 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:38:37,753 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:38:38,122 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:38:38,123 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:38:41,492 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:38:41,493 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:38:44,862 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:38:46,918 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:38:46,918 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:38:50,659 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 09:42:04,346 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 09:42:04,347 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:42:11,002 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:42:36,543 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:42:38,421 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:42:38,421 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:42:38,874 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:42:39,031 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:42:39,238 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:42:39,614 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:42:39,779 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:42:40,192 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:42:40,695 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:42:40,695 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:42:42,972 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:42:42,972 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:43:18,601 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:43:18,602 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:43:21,215 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:43:21,215 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:43:25,126 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:43:27,186 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:43:27,187 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:43:30,559 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:43:30,560 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:43:30,979 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:43:30,980 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:43:34,402 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:43:36,433 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:43:36,434 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:43:39,734 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:43:39,735 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:43:43,218 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 09:46:45,979 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:46:52,652 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:47:18,256 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:47:20,314 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:47:20,315 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:47:20,958 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:47:21,055 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:47:21,307 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:47:22,127 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:47:22,195 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:47:22,339 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:47:22,630 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:47:22,631 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:47:26,843 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:47:26,844 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:47:57,123 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:47:57,124 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:48:02,211 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:48:02,212 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:49:26,813 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:49:36,053 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:50:01,334 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:50:02,985 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:50:02,986 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:50:03,422 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:50:35,218 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:50:41,969 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:51:06,788 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:51:09,406 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:51:09,406 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:51:09,915 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:51:10,022 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:51:10,306 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:51:11,010 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:51:11,060 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:51:11,174 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:51:11,472 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:51:11,472 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:51:15,652 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:51:15,652 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:51:46,332 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:51:46,333 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:51:51,201 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:51:51,202 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:51:56,321 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:51:56,323 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:52:00,019 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:52:02,184 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:52:02,185 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:54:26,545 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:54:35,396 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:54:59,061 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:55:01,170 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:55:01,170 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:55:01,718 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:55:01,820 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:55:02,187 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:55:02,499 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:55:02,546 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:55:02,672 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:55:02,939 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:55:02,939 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:55:07,389 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:55:07,390 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:55:35,274 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:55:35,275 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:55:39,410 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:55:39,411 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:55:45,558 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:55:45,559 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:55:49,093 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:55:51,387 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:55:51,388 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:57:00,495 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 09:57:06,789 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 09:57:32,611 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 09:57:34,153 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 09:57:34,153 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 09:57:34,743 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 09:57:34,851 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:57:35,109 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 09:57:35,494 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 09:57:35,563 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 09:57:35,779 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 09:57:36,362 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 09:57:36,363 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 09:57:40,611 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:57:40,612 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 09:58:07,878 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 09:58:07,879 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 09:58:12,656 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:12,656 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:19,818 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:19,820 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:23,742 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:58:25,965 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:58:25,966 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:58:29,528 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:58:29,529 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:58:30,821 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:30,822 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 09:58:34,394 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 09:58:36,446 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 09:58:36,447 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 09:58:39,823 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 09:58:39,824 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:00:15,130 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:00:20,978 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:00:30,346 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:00:45,172 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:00:53,730 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:01:18,050 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:01:19,549 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:01:19,549 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:01:19,879 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:01:19,935 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:01:20,092 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:01:20,443 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:01:20,490 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:01:20,575 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:01:20,782 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:01:20,783 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:01:24,949 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:01:24,950 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:03:37,314 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:03:37,315 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:03:52,961 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:03:52,962 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:03:58,842 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:03:58,844 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:04:02,753 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:04:02,753 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:04:03,098 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:04:06,172 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:04:06,172 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:04:06,730 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:04:06,731 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:04:10,246 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:04:10,247 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:04:10,483 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:04:13,530 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:04:13,531 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:07:31,081 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:07:40,058 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:08:04,364 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:08:05,930 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:08:05,931 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:08:06,445 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:08:06,561 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:08:06,918 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:08:07,321 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:08:07,374 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:08:07,554 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:08:08,307 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:08:08,307 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:08:12,822 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:08:12,823 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:08:46,615 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:08:46,616 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:08:51,494 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:08:51,495 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:08:57,183 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:08:57,184 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:09:00,832 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:09:00,833 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:09:11,327 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:09:11,376 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:09:11,377 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:09:11,768 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:09:11,769 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:09:15,224 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:09:15,225 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:09:25,788 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:09:26,263 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:09:26,265 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:10:06,725 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:10:15,269 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:10:40,707 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:10:42,270 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:10:42,271 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:10:42,793 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:10:42,906 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:10:43,285 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:10:43,950 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:10:44,078 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:10:44,414 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:10:44,861 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:10:44,861 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:10:49,126 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:10:49,127 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:11:18,522 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:11:18,522 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:11:23,792 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:23,793 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:28,358 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:28,361 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:32,387 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:11:32,388 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:11:42,627 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:11:42,829 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:11:42,829 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:11:43,838 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:43,840 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:11:47,412 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:11:47,412 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:11:57,994 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:11:58,040 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:11:58,041 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:14:04,861 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:14:09,965 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:14:38,067 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:14:40,377 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:14:40,379 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:14:40,890 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:14:41,192 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:14:41,464 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:14:41,837 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:14:41,881 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:14:42,011 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:14:42,287 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:14:42,288 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:14:46,475 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:14:46,476 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:15:18,214 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:15:18,215 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:15:24,981 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:24,987 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:30,946 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:30,947 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:35,742 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:15:35,742 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:15:46,461 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:15:46,757 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:15:46,757 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:15:47,706 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:47,707 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:15:53,540 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:15:53,541 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:16:04,208 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:16:04,307 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:16:04,307 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:16:40,692 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 10:16:40,694 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:16:46,562 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:17:11,545 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:17:14,247 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:17:14,249 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:17:16,125 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:17:16,242 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:17:16,452 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:17:16,860 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:17:16,910 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:17:17,394 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:17:17,710 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:17:17,711 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:17:19,915 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:17:19,917 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:17:52,904 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:17:52,905 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:17:56,639 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:17:56,640 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:18:01,453 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:18:01,454 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:18:12,004 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:18:12,181 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:18:12,182 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:18:13,725 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:18:13,725 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:18:19,063 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:18:19,068 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:18:29,981 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:18:30,095 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:18:30,097 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:18:35,197 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 10:19:32,172 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 10:19:32,172 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:19:37,702 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:20:01,846 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:20:03,505 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:20:03,506 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:20:04,260 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:20:04,503 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:20:04,798 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:20:05,309 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:20:05,350 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:20:05,444 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:20:05,619 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:20:05,619 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:20:07,792 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:20:07,793 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:20:44,664 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:20:44,664 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:20:48,570 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:20:48,571 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:20:53,002 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:20:53,003 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:20:58,583 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:20:58,682 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:20:58,683 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:21:02,219 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:21:02,221 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:21:07,751 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:21:07,752 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:21:13,093 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:21:13,180 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:21:13,181 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:21:21,212 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 10:22:42,282 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 10:22:42,282 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:22:48,373 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:23:14,830 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:23:16,473 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:23:16,473 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:23:16,766 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:23:16,847 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:23:17,012 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:23:17,319 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:23:17,356 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:23:17,433 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:23:17,614 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:23:17,615 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:23:19,901 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:23:19,902 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:23:54,355 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:23:54,356 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:23:57,610 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:23:57,610 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:24:02,659 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:24:02,664 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:24:08,229 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:24:10,283 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:24:10,284 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:24:13,658 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:24:13,659 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:24:19,859 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:24:19,860 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:24:25,407 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:24:27,502 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:24:27,503 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:24:35,138 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 10:25:26,423 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 10:25:26,424 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:25:32,236 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:25:59,974 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:26:01,942 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:26:01,943 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:26:02,447 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:26:02,635 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:26:02,937 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:26:03,540 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:26:03,600 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:26:03,760 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:26:04,031 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:26:04,032 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:26:06,276 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:26:06,277 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:26:43,323 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:26:43,323 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:26:45,331 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:26:45,331 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:26:49,975 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:26:49,976 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:26:55,501 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:26:57,555 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:26:57,556 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:27:01,113 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:27:01,114 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:27:20,332 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:27:20,333 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:27:25,722 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:27:29,183 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:27:29,183 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:27:36,849 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-05 10:28:41,463 INFO [root] [test_my.py(setUpClass:14)] - --------------------开始执行用例：TestMy---------------------
+2020-09-05 10:28:41,463 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-05 10:28:48,253 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-05 10:29:15,290 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-05 10:29:16,550 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-05 10:29:16,550 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-05 10:29:16,842 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-05 10:29:16,874 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:29:16,974 INFO [root] [base_option.py(base_input:46)] - 输入内容:15117998520
+2020-09-05 10:29:17,195 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-05 10:29:17,253 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-05 10:29:17,391 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-05 10:29:17,673 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-05 10:29:17,674 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-05 10:29:19,824 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:29:19,825 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', "[class='site-top-v2-inner fr after-login']>a:nth-child(1)")
+2020-09-05 10:30:59,434 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('class name', 'user_big_img')
+2020-09-05 10:30:59,435 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('class name', 'user_big_img')
+2020-09-05 10:31:02,605 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:31:02,606 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:31:07,367 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:31:07,372 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:31:13,216 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:31:15,348 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:31:15,349 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:31:19,013 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[text()='头像照片']")
+2020-09-05 10:31:19,014 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[text()='头像照片']")
+2020-09-05 10:31:23,576 INFO [root] [base_option.py(base_file_push:90)] - 上传文件
+2020-09-05 10:31:23,576 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@type='file']")
+2020-09-05 10:31:29,052 INFO [root] [base_option.py(base_excute_js:77)] - 执行js：document.querySelector('.imgBtn').style='position: relative; display: block;'
+2020-09-05 10:31:31,114 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:31:31,115 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', "//*[@src='/home/static/img/duihao_white.png']")
+2020-09-05 10:31:38,507 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器

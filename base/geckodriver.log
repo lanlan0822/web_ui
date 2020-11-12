@@ -1,0 +1,182 @@
+1598788102027	geckodriver	INFO	Listening on 127.0.0.1:33277
+1598788102267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMV9vVA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598788116458	Marionette	INFO	Listening on port 33286
+1598788116861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598788137560	geckodriver	INFO	Listening on 127.0.0.1:33439
+1598788137799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileZ6RVt0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598788147654	Marionette	INFO	Listening on port 33446
+1598788148154	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 49332, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598788154835	Marionette	INFO	Stopped listening on port 33446
+1598788224686	geckodriver	INFO	Listening on 127.0.0.1:33699
+1598788224976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile0LR3BX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598788234676	Marionette	INFO	Listening on port 33706
+1598788234721	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 51080, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+[Parent 51080, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598788514552	Marionette	INFO	Stopped listening on port 33706
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598788514271	Marionette	INFO	Stopped listening on port 34129
+1598789394903	geckodriver	INFO	Listening on 127.0.0.1:38274
+1598789395130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilesJuQEC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598789405100	Marionette	INFO	Listening on port 38282
+1598789405567	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598789582866	Marionette	INFO	Stopped listening on port 38282
+8789534194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilefyf8xu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598789544088	Marionette	INFO	Listening on port 38703
+1598789544566	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 47084, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598789581345	Marionette	INFO	Stopped listening on port 38703
+1598789677045	geckodriver	INFO	Listening on 127.0.0.1:39088
+1598789677288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileEqz3OA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598789686982	Marionette	INFO	Listening on port 39095
+1598789687199	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598789837194	Marionette	INFO	Stopped listening on port 39095
+1598790022463	geckodriver	INFO	Listening on 127.0.0.1:39989
+1598790022804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileSYKYFb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598790032423	Marionette	INFO	Listening on port 40000
+1598790032842	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52808, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 52808, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1598790150304	Marionette	INFO	Stopped listening on port 40000
+rror: Can't find profile directory.
+1598790074008	Marionette	INFO	Listening on port 40158
+1598790074332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598790149899	Marionette	INFO	Stopped listening on port 40158
+1598790623919	geckodriver	INFO	Listening on 127.0.0.1:41491
+1598790624210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile0ldjep"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598790632576	Marionette	INFO	Listening on port 41497
+1598790632740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791118114	Marionette	INFO	Stopped listening on port 41497
+8791076360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofiletEsar5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791087680	Marionette	INFO	Listening on port 42809
+1598791087860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791118740	Marionette	INFO	Stopped listening on port 42809
+1598791124036	geckodriver	INFO	Listening on 127.0.0.1:42994
+1598791124306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileDt9QSC"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791133457	Marionette	INFO	Listening on port 42999
+1598791133585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791138687	Marionette	INFO	Stopped listening on port 42999
+1598791173209	geckodriver	INFO	Listening on 127.0.0.1:43179
+1598791173706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegPu9Xa"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791181756	Marionette	INFO	Listening on port 43190
+1598791182108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791222462	Marionette	INFO	Stopped listening on port 43190
+1598791394950	geckodriver	INFO	Listening on 127.0.0.1:43796
+1598791395390	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilegOV368"
+[Parent 37408, Gecko_IOThread] WARNING: Failed to launch tab subprocess: file /builds/worker/checkouts/gecko/ipc/glue/GeckoChildProcessHost.cpp, line 745
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791404436	Marionette	INFO	Listening on port 43802
+1598791404706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791491592	Marionette	INFO	Stopped listening on port 43802
+8791486221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile4KvxOs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791495184	Marionette	INFO	Listening on port 44097
+1598791495232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598791600987	Marionette	INFO	Stopped listening on port 44097
+8791599401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTQBRvb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791608318	Marionette	INFO	Listening on port 44437
+1598791608817	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xB000E,name=PBackgroJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598791848473	Marionette	INFO	Listening on port 45144
+1598791848565	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1598791850687	Marionette	INFO	Stopped listening on port 45144
+1598798063792	geckodriver	INFO	Listening on 127.0.0.1:60243
+1598798064037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileV3zuHW"
+1598798083287	geckodriver	INFO	Listening on 127.0.0.1:60321
+1598798083591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileWZ7P5C"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598798094894	Marionette	INFO	Listening on port 60328
+1598798095025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598798124167	Marionette	INFO	Stopped listening on port 60328
+8798116650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezLBq5i"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1598798126672	Marionette	INFO	Listening on port 60463
+1598798126731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598798352273	Marionette	INFO	Stopped listening on port 60463
+1598842835000	geckodriver	INFO	Listening on 127.0.0.1:65152
+1598842835288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileNyVrAZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598842848941	Marionette	INFO	Listening on port 65157
+1598842849010	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 51036, Gecko_IOThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 522
+1598843544191	Marionette	INFO	Stopped listening on port 65157
+1598843548412	geckodriver	INFO	Listening on 127.0.0.1:2588
+1598843548707	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileMSgwnx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598843557207	Marionette	INFO	Listening on port 2594
+1598843557321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598843596031	Marionette	INFO	Stopped listening on port 2594
+1598843602504	geckodriver	INFO	Listening on 127.0.0.1:2764
+1598843602800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileTfOpma"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598843612174	Marionette	INFO	Listening on port 2771
+1598843612268	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/search-default-override-allowlist Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+[Parent 60356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: blocklconsole.error: services.settings: 
+  main/console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons sync interrupted by shutdown
+console.warn: services.setti1598844146114	Marionette	INFO	Stopped listening on port 3043
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+1598844146115	Marionette	INFO	Stopped listening on port 2872
+ko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598844146138	Marionette	INFO	Stopped listening on port 2771
+Store.jsm, line 66: Error: Can't find profile directory.
+1598843710098	Marionette	INFO	Listening on port 3170
+1598843710231	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598844146276	Marionette	INFO	Stopped listening on port 3170
+1598844521908	geckodriver	INFO	Listening on 127.0.0.1:5325
+1598844522168	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofilezfgLfs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598844530989	Marionette	INFO	Listening on port 5331
+1598844531021	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598844559846	Marionette	INFO	Stopped listening on port 5331
+8844557672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile2Sp3gY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598844565713	Marionette	INFO	Listening on port 5475
+1598844566194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598845495402	Marionette	INFO	Stopped listening on port 5475
+1598845496959	geckodriver	INFO	Listening on 127.0.0.1:20457
+1598845497205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileNuA8J5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598845505772	Marionette	INFO	Listening on port 20463
+1598845505975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1598846100024	Marionette	INFO	Stopped listening on port 20463

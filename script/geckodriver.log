@@ -1,0 +1,13 @@
+1598789844335	geckodriver	INFO	Listening on 127.0.0.1:39539
+1598789844697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5pl6Yd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1598789855467	Marionette	INFO	Listening on port 39546
+1598789855545	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 52616, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1598789962198	Marionette	INFO	Stopped listening on port 39546
+1599726009037	geckodriver	INFO	Listening on 127.0.0.1:52945
+1599726012499	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileN8qPmJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1599726023503	Marionette	INFO	Listening on port 52967
+1599726023817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599726069925	Marionette	INFO	Stopped listening on port 52967

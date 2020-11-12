@@ -1,0 +1,85 @@
+2020-09-14 17:32:59,162 INFO [root] [test_login.py(setUpClass:29)] - --------------------开始执行用例：Login---------------------
+2020-09-14 17:32:59,182 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-14 17:33:08,761 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-14 17:33:12,720 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-14 17:33:14,583 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:14,584 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:15,113 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-14 17:33:15,299 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:33:15,565 INFO [root] [base_option.py(base_input:46)] - 输入内容:test123
+2020-09-14 17:33:15,855 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:15,856 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:17,104 INFO [root] [base_option.py(base_assert_elemtexist:136)] - 开始断言页面是否存在该元素，元素：('xpath', '//*[text()="密码不能为空"]')
+2020-09-14 17:33:17,104 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="密码不能为空"]')
+2020-09-14 17:33:20,252 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:20,253 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:21,092 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-14 17:33:21,196 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:33:21,588 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-14 17:33:22,141 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:22,142 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:23,393 INFO [root] [base_option.py(base_assert_elemtexist:136)] - 开始断言页面是否存在该元素，元素：('xpath', '//*[text()="用户名不能为空"]')
+2020-09-14 17:33:23,394 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="用户名不能为空"]')
+2020-09-14 17:33:27,135 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:27,135 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:27,483 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-14 17:33:27,548 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:33:27,690 INFO [root] [base_option.py(base_input:46)] - 输入内容:test12345678997r5
+2020-09-14 17:33:27,993 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#pwd')
+2020-09-14 17:33:28,028 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:33:28,142 INFO [root] [base_option.py(base_input:46)] - 输入内容:123456
+2020-09-14 17:33:28,389 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:28,389 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:29,591 INFO [root] [base_option.py(base_assert_elemtexist:136)] - 开始断言页面是否存在该元素，元素：('xpath', '//*[text()="用户不存在，请联系客服"]')
+2020-09-14 17:33:29,591 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="用户不存在，请联系客服"]')
+2020-09-14 17:33:30,646 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,647 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,674 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,674 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,720 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,721 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,755 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:30,756 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:45,764 INFO [root] [test_login.py(setUpClass:29)] - --------------------开始执行用例：Login---------------------
+2020-09-14 17:33:45,765 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-14 17:33:51,222 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-14 17:33:54,017 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-14 17:33:56,469 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:56,469 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:33:56,900 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-14 17:33:57,040 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:33:57,444 INFO [root] [base_option.py(base_input:46)] - 输入内容:test123
+2020-09-14 17:33:57,783 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:57,784 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:33:58,084 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="密码不能为空"]')
+2020-09-14 17:34:02,533 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-14 17:34:42,636 INFO [root] [test_login.py(setUpClass:29)] - --------------------开始执行用例：Login---------------------
+2020-09-14 17:34:42,638 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-14 17:34:50,072 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-14 17:34:52,770 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-14 17:34:54,294 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:34:54,295 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:34:54,882 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-14 17:34:55,022 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:34:55,300 INFO [root] [base_option.py(base_input:46)] - 输入内容:test123
+2020-09-14 17:34:55,589 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:34:55,590 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:34:55,857 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="密码不能为空"]')
+2020-09-14 17:35:00,288 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
+2020-09-14 17:35:33,739 INFO [root] [test_login.py(setUpClass:29)] - --------------------开始执行用例：Login---------------------
+2020-09-14 17:35:33,740 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-14 17:35:41,207 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-14 17:35:59,494 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-14 17:36:09,750 INFO [root] [test_login.py(setUpClass:29)] - --------------------开始执行用例：Login---------------------
+2020-09-14 17:36:09,751 INFO [root] [driver_option.py(get_driver:9)] - 启动driver,打开浏览器
+2020-09-14 17:36:15,149 INFO [root] [driver.py(get_driver:13)] - 打开浏览器地址：http://itougu.jrj.com.cn/
+2020-09-14 17:36:33,806 INFO [root] [driver.py(get_driver:15)] - 浏览器最大化
+2020-09-14 17:36:35,057 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登录"]')
+2020-09-14 17:36:35,057 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登录"]')
+2020-09-14 17:36:35,321 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('css selector', '#dl_blur')
+2020-09-14 17:36:35,416 INFO [root] [base_option.py(base_input:44)] - 清空输入框默认内容
+2020-09-14 17:36:35,680 INFO [root] [base_option.py(base_input:46)] - 输入内容:test123
+2020-09-14 17:36:35,916 INFO [root] [base_option.py(base_click:38)] - 点击click元素:('xpath', '//*[text()="登 录"]')
+2020-09-14 17:36:35,917 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="登 录"]')
+2020-09-14 17:36:36,063 INFO [root] [base_option.py(base_find_element:32)] - 开始查找元素('xpath', '//*[text()="密码不能为空"]')
+2020-09-14 17:36:39,657 INFO [root] [driver.py(close_driver:33)] - 关闭浏览器
