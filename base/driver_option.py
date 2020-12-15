@@ -2,6 +2,7 @@
 from selenium import webdriver
 from tool.logger import GegLogger
 from multiprocessing import Pool
+from selenium.webdriver import Remote
 from multiprocessing import Manager
 log=GegLogger().get_logger()
 class DriverOption:
@@ -34,6 +35,18 @@ class DriverOption:
         po.join()
         for j in list1:
             print(j.dump(j))
+
+    # grid 多进程生成浏览器driver
+    def grid_getdriver(self,host,browser):
+        driver = Remote(
+            command_executor=host,
+            desired_capabilities={
+                'platform': 'ANY',
+                'browserName': browser,
+                'version': '',
+                'javascriptEnabled': 'True'
+        })
+        return driver
 
 if __name__ == '__main__':
    DriverOption().multi_getdriver()

@@ -180,3 +180,16 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 1598845505772	Marionette	INFO	Listening on port 20463
 1598845505975	Marionette	WARN	TLS certificate errors will be ignored for this session
 1598846100024	Marionette	INFO	Stopped listening on port 20463
+1607933733571	geckodriver	INFO	Listening on 127.0.0.1:29919
+1607933736777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofileDHEQws"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607933743074	Marionette	INFO	Listening on port 29940
+1607933743377	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17728, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1607937568841	Marionette	INFO	Stopped listening on port 29940
+ "-no-remote" "-profile" "C:\\Users\\admin\\AppData\\Local\\Temp\\rust_mozprofile5HY7jM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1607934004933	Marionette	INFO	Listening on port 30373
+1607934005160	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 17504, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1607934013756	Marionette	INFO	Stopped listening on port 30373

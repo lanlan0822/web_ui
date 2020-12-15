@@ -26,6 +26,17 @@ class GetDriver:
             cls.dr.maximize_window()
             return cls.dr
 
+    # grid 用于多进程启动浏览器时调用
+    @classmethod
+    def gird_get_driver(cls,host,browser,url=page.url):
+        if cls.dr==None:
+            cls.dr=DriverOption().grid_getdriver(host,browser)
+            log.info("打开浏览器地址：%s"%url)
+            cls.dr.get(url)
+            log.info("浏览器最大化")
+            cls.dr.maximize_window()
+            return cls.dr
+
     @classmethod
     def close_driver(cls):
         if cls.dr:
